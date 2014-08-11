@@ -3,12 +3,8 @@ layout: default
 ---
 
 <div class="page-header">
-    <h1>{{ site.title }}</h1>
+    <h1>{{ site.title }} <small>An overview of the applications and code shared on GitHub</small></h1>
 </div>
-
-<p>This page gives an overview of the applications and code shared by Guildford Borough Council on GitHub.</p>
-
-## Code
 
 Unless otherwise specified all code is written in **C#** for **Microsoft .NET Framework v4.5**.
 
