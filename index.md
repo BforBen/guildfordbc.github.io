@@ -55,7 +55,7 @@ Some of the projects use code that has been written and shared by others. Where 
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address">Address</a> Shared data model for the address API and client <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=ffce863a-4c8e-4fff-981e-e8db6d35abf7" alt="guildford-bc-pre MyGet Build Status" /></a></li>
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api">Address API</a> The ASP.NET MVC WebAPI address service</li>
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api-client">Address API Client</a> A wrapper client for the above service <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=32d69c28-af05-4c26-912d-4ef55c176996" alt="guildford-bc-pre MyGet Build Status" /></a></li>
-      </dl>
+      </ul>
     </article>
 
     <article id="data-models">
@@ -63,7 +63,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <p>Some standard models for data e.g. a person's name.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/data-models">Data Models</a></li>
-      </dl>
+      </ul>
     </article>
 
     <article id="io">
@@ -71,7 +71,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <p>Method for accessing alternative NTFS data streams and marking files as from the internet (forked from <a href="https://github.com/hubkey/Trinet.Core.IO.Ntfs">Trinet.Core.IO.Ntfs</a>).</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/io">IO</a> <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=0c673302-0d2f-4755-b1e9-0d3a64bd3b17" alt="guildford-bc-pre MyGet Build Status" /></a></li>
-      </dl>
+      </ul>
     </article>
 
     <article id="linq">
@@ -79,7 +79,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <p>Library of LINQ extension methods.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/linq">Linq</a> <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=45b97ee0-1d3d-4c2d-b4db-17635685f457" alt="guildford-bc-pre MyGet Build Status" /></a></li>
-      </dl>
+      </ul>
     </article>
 
     <article id="web-elmah">
@@ -87,7 +87,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <p>Helper methods for adding <a href="https://code.google.com/p/elmah/"><abbr title="Error Logging Modules and Handlers">ELMAH</abbr> error handling</a> to ASP.NET MVC sites and WCF web services.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-elmah">Web.Elmah</a> <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=7dbb7250-a9af-4ca1-9cf5-48be196a0bab" alt="guildford-bc-pre MyGet Build Status" /></a></li>
-      </dl>
+      </ul>
     </article>
 
     <article id="web-mvc">
@@ -95,7 +95,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <p>Extensions for ASP.NET MVC projects.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-mvc">Web.Mvc</a> <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=d626559b-97b9-4e13-a9db-3fd101caad1a" alt="guildford-bc-pre MyGet Build Status" /></a></li>
-      </dl>
+      </ul>
     </article>
   </div>
 </div>
