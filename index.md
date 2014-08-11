@@ -10,7 +10,7 @@ layout: default
 
 ## Code
 
-Unless otherwise specified all code is written in *C#* for *Microsoft .NET Framework v4.5*.
+Unless otherwise specified all code is written in **C#** for **Microsoft .NET Framework v4.5**.
 
 Some of the projects use code that has been written and shared by others. Where this is the case a link to the original source has been included in the code comment.
 
@@ -58,39 +58,39 @@ Some of the projects use code that has been written and shared by others. Where 
 
     <article id="data-models">
       <h3>Data Models</h3>
-      <p></p>
+      <p>Some standard models for data e.g. a person's name.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/data-models">Data Models</a></li>
       </dl>
     </article>
 
-    <article id="data-models">
+    <article id="io">
       <h3>IO</h3>
-      <p></p>
+      <p>Method for accessing alternative NTFS data streams and marking files as from the internet (forked from <a href="https://github.com/hubkey/Trinet.Core.IO.Ntfs">Trinet.Core.IO.Ntfs</a>).</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/io">IO</a></li>
       </dl>
     </article>
 
-    <article id="data-models">
+    <article id="linq">
       <h3>Linq</h3>
-      <p></p>
+      <p>Library of LINQ extension methods.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/linq">Linq</a></li>
       </dl>
     </article>
 
-    <article id="data-models">
+    <article id="web-elmah">
       <h3>Web.Elmah</h3>
-      <p></p>
+      <p>Helper methods for adding <a href="https://code.google.com/p/elmah/"><abbr title="Error Logging Modules and Handlers">ELMAH</abbr> error handling</a> to ASP.NET MVC sites and WCF web services.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-elmah">Web.Elmah</a></li>
       </dl>
     </article>
 
-    <article id="data-models">
+    <article id="web-mvc">
       <h3>Web.Mvc</h3>
-      <p></p>
+      <p>Extensions for ASP.NET MVC projects.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-mvc">Web.Mvc</a></li>
       </dl>
