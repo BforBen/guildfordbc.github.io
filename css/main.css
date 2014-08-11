@@ -108,14 +108,15 @@ footer {
 
 .list-contents-top-divider .list-group-item {
     margin-bottom: 0;
-    border-width: 0 0 1px;
+    border-width: 1px 0 0;
 }
 
 .list-contents-bottom-divider .list-group-item {
     margin-bottom: 0;
-    border-width: 1px 0 0;
+    border-width: 0 0 1px;
 }
 
+.list-contents .list-group-item:first-child,
 .list-contents .list-group-item:last-child {
     border-radius: 0;
 }
