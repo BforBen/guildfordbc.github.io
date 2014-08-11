@@ -2,6 +2,7 @@ safe:        false
 
 title:       "Guildford Borough Council on GitHub"
 baseurl:     
+username:    GuildfordBC
 
 source:      ./
 destination: ./_site
