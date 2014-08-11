@@ -64,23 +64,34 @@ footer {
     padding-bottom: 4em;
     margin-bottom: 1em;
 }
-		
+.service-stage
+{
+    margin-top: -20px;
+    padding: 1em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .26);
+}
+.service-stage-pre-alpha,
 .label-pre-alpha
 {
-	background-color: #912b88;
+    background-color: #912b88;
+    color: #fff;
 }
+.service-stage-alpha,
 .label-alpha
 {
 	background-color: #d53880;
 }
+.service-stage-beta,
 .label-beta
 {
 	background-color: #f47738;
 }
+.service-stage-live,
 .label-live
 {
 	background-color: #85994b;
 }
+.service-stage-retirement,
 .label-retirement
 {
 	background-color: #bfc1c3;
