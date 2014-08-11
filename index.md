@@ -12,7 +12,7 @@ layout: default
   <div class="col-md-3">
     <nav>
       <h3>Contents</h3>
-      <ol class="list-group list-contents">
+      <ol class="list-group list-contents list-contents-bottom-divider">
           <li class="list-group-item"><a href="#active-directory">Active Directory</a></li>
           <li class="list-group-item"><a href="#address">Address</a></li>
       </ol>
@@ -46,6 +46,46 @@ layout: default
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address">Address</a> Shared data model for the address API and client</li>
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api">Address API</a> The ASP.NET MVC WebAPI address service</li>
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api-client">Address API Client</a> A wrapper client for the above service</li>
+      </dl>
+    </article>
+
+    <article id="data-models">
+      <h3>Data Models</h3>
+      <p></p>
+      <ul class="list-unstyled list-contents list-contents-top-divider">
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/data-models">Data Models</a></li>
+      </dl>
+    </article>
+
+    <article id="data-models">
+      <h3>IO</h3>
+      <p></p>
+      <ul class="list-unstyled list-contents list-contents-top-divider">
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/io">IO</a></li>
+      </dl>
+    </article>
+
+    <article id="data-models">
+      <h3>Linq</h3>
+      <p></p>
+      <ul class="list-unstyled list-contents list-contents-top-divider">
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/linq">Linq</a></li>
+      </dl>
+    </article>
+
+    <article id="data-models">
+      <h3>Web.Elmah</h3>
+      <p></p>
+      <ul class="list-unstyled list-contents list-contents-top-divider">
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-elmah">Web.Elmah</a></li>
+      </dl>
+    </article>
+
+    <article id="data-models">
+      <h3>Web.Mvc</h3>
+      <p></p>
+      <ul class="list-unstyled list-contents list-contents-top-divider">
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-mvc">Web.Mvc</a></li>
       </dl>
     </article>
   </div>
