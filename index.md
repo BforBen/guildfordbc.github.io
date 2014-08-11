@@ -6,7 +6,7 @@ layout: default
     <h1>{{ site.title }}</h1>
 </div>
 
-<p class="lead">This page gives an overview of the applications and code shared on GitHub.</p>
+<p class="lead">This page gives an overview of the applications and code shared on GitHub by Guildford Borough Council.</p>
 
 Unless otherwise specified all code is written in **C#** for **Microsoft .NET Framework v4.5**.
 
