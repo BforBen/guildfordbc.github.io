@@ -6,12 +6,19 @@ layout: default
     <h1>{{ site.title }}</h1>
 </div>
 
-## Applications
+<p>This page gives an overview of the applications and code shared by Guildford Borough Council on GitHub.</p>
+
+## Code
+
+Unless otherwise specified all code is written in *C#* for *Microsoft .NET Framework v4.5*.
+
+Some of the projects use code that has been written and shared by others. Where this is the case a link to the original source has been included in the code comment.
 
 <div class="row">
   <div class="col-md-3">
     <nav>
       <h3>Contents</h3>
+      <h4>Applications</h4>
       <ol class="list-group list-contents list-contents-bottom-divider">
           <li class="list-group-item"><a href="#active-directory">Active Directory</a></li>
           <li class="list-group-item"><a href="#address">Address</a></li>
