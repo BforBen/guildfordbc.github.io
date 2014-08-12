@@ -40,7 +40,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <p>This application is a web service for accessing Active Directory user and group information.</p>
       <h4>Repositories</h4>
       <ul class="list-unstyled list-contents list-contents-top-divider">
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/activedirectory-api">Active Directory API</a> The ASP.NET MVC WebAPI address service</li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/activedirectory-api">Active Directory API</a> The ASP.NET WebAPI address service</li>
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/activedirectory-api-client">Active Directory API Client</a> A wrapper client for the above service</li>
       </ul>
     </article>
@@ -51,7 +51,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <h4>Repositories</h4>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address">Address</a> Shared data model for the address API and client <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=ffce863a-4c8e-4fff-981e-e8db6d35abf7" alt="guildford-bc-pre MyGet Build Status" /></a></li>
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api">Address API</a> The ASP.NET MVC WebAPI address service</li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api">Address API</a> The ASP.NET WebAPI address service</li>
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api-client">Address API Client</a> A wrapper client for the above service <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=32d69c28-af05-4c26-912d-4ef55c176996" alt="guildford-bc-pre MyGet Build Status" /></a></li>
       </ul>
     </article>
@@ -82,7 +82,7 @@ Some of the projects use code that has been written and shared by others. Where 
 
     <article id="web-elmah">
       <h3>Web.Elmah</h3>
-      <p>Helper methods for adding <a href="https://code.google.com/p/elmah/"><abbr title="Error Logging Modules and Handlers">ELMAH</abbr> error handling</a> to ASP.NET MVC sites and WCF web services.</p>
+      <p>Helper methods for adding <a href="https://code.google.com/p/elmah/"><abbr title="Error Logging Modules and Handlers">ELMAH</abbr> error handling</a> to ASP.NET MVC sites, WebAPI services and WCF web services.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-elmah">Web.Elmah</a> <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=7dbb7250-a9af-4ca1-9cf5-48be196a0bab" alt="guildford-bc-pre MyGet Build Status" /></a></li>
       </ul>
