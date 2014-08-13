@@ -50,7 +50,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <p>This application is a wrapper web service for Aligned Assets SinglePoint product that provides access to the LLPG and OS Addressbase Premium data.</p>
       <h4>Repositories</h4>
       <ul class="list-unstyled list-contents list-contents-top-divider">
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address">Address</a> Shared data model for the address API and client <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=ffce863a-4c8e-4fff-981e-e8db6d35abf7" alt="guildford-bc-pre MyGet Build Status" /></a></li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address">Address</a> Shared data model for the address API and client <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=ffce863a-4c8e-4fff-981e-e8db6d35abf7" alt="guildford-bc-pre MyGet Build Status" /></a> / <a href="https://ci.appveyor.com/project/BforBen/address"><img src="https://ci.appveyor.com/api/projects/status/vg2heh8yh2iyst8a" title="Build status"></a></li>
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api">Address API</a> The ASP.NET WebAPI address service</li>
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api-client">Address API Client</a> A wrapper client for the above service <a href="https://www.myget.org/"><img src="https://www.myget.org/BuildSource/Badge/guildford-bc-pre?identifier=32d69c28-af05-4c26-912d-4ef55c176996" alt="guildford-bc-pre MyGet Build Status" /></a></li>
       </ul>
