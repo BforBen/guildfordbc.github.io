@@ -50,9 +50,9 @@ Some of the projects use code that has been written and shared by others. Where 
       <p>This application is a wrapper web service for Aligned Assets SinglePoint product that provides access to the LLPG and OS Addressbase Premium data.</p>
       <h4>Repositories</h4>
       <ul class="list-unstyled list-contents list-contents-top-divider">
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address">Address</a> Shared data model for the address API and client <a href="https://ci.appveyor.com/project/BforBen/address"><img src="https://ci.appveyor.com/api/projects/status/vg2heh8yh2iyst8a" title="Build status"></a></li>
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api">Address API</a> The ASP.NET WebAPI address service <a href="https://ci.appveyor.com/project/BforBen/address-api"><img src="https://ci.appveyor.com/api/projects/status/gc5fj30exaugx67c" title="Build status"></a></li>
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api-client">Address API Client</a> A wrapper client for the above service  <a href="https://ci.appveyor.com/project/BforBen/address-api-client"><img src="https://ci.appveyor.com/api/projects/status/07mnvjkqa94r2rwk" title="Build status"></a></li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address">Address</a> Shared data model for the address API and client <a href="https://ci.appveyor.com/project/BforBen/address" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/vg2heh8yh2iyst8a" title="Build status"></a></li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api">Address API</a> The ASP.NET WebAPI address service <a href="https://ci.appveyor.com/project/BforBen/address-api" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/gc5fj30exaugx67c" title="Build status"></a></li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/address-api-client">Address API Client</a> A wrapper client for the above service  <a href="https://ci.appveyor.com/project/BforBen/address-api-client" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/07mnvjkqa94r2rwk" title="Build status"></a></li>
       </ul>
     </article>
 
@@ -68,7 +68,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <h3>IO</h3>
       <p>Method for accessing alternative NTFS data streams and marking files as from the internet (forked from <a href="https://github.com/hubkey/Trinet.Core.IO.Ntfs">Trinet.Core.IO.Ntfs</a>).</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/io">IO</a> <a href="https://ci.appveyor.com/project/BforBen/io"><img src="https://ci.appveyor.com/api/projects/status/ws700y1qeo309erp" title="Build status"></a></li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/io">IO</a> <a href="https://ci.appveyor.com/project/BforBen/io" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/ws700y1qeo309erp" title="Build status"></a></li>
       </ul>
     </article>
 
@@ -76,7 +76,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <h3>Linq</h3>
       <p>Library of LINQ extension methods.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/linq">Linq</a> <a href="https://ci.appveyor.com/project/BforBen/linq"><img src="https://ci.appveyor.com/api/projects/status/pkc73lq1acfgt6v2" title="Build status"></a></li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/linq">Linq</a> <a href="https://ci.appveyor.com/project/BforBen/linq" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/pkc73lq1acfgt6v2" title="Build status"></a></li>
       </ul>
     </article>
 
@@ -84,7 +84,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <h3>Web.Elmah</h3>
       <p>Helper methods for adding <a href="https://code.google.com/p/elmah/"><abbr title="Error Logging Modules and Handlers">ELMAH</abbr> error handling</a> to ASP.NET MVC sites, WebAPI services and WCF web services.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-elmah">Web.Elmah</a> <a href="https://ci.appveyor.com/project/BforBen/web-elmah"><img src="https://ci.appveyor.com/api/projects/status/0w5uv2coepyuowj3" title="Build status"></a></li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-elmah">Web.Elmah</a> <a href="https://ci.appveyor.com/project/BforBen/web-elmah" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/0w5uv2coepyuowj3" title="Build status"></a></li>
       </ul>
     </article>
 
@@ -92,7 +92,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <h3>Web.Mvc</h3>
       <p>Extensions for ASP.NET MVC projects.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-mvc">Web.Mvc</a> <a href="https://ci.appveyor.com/project/BforBen/web-mvc"><img src="https://ci.appveyor.com/api/projects/status/4g3qfcbd1bcpenog" title="Build status"></a></li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-mvc">Web.Mvc</a> <a href="https://ci.appveyor.com/project/BforBen/web-mvc" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/4g3qfcbd1bcpenog" title="Build status"></a></li>
       </ul>
     </article>
   </div>
