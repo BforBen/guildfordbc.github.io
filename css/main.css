@@ -1,6 +1,7 @@
 body
 {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', Verdana, sans-serif;
+    color: #0b0c0c;
 }
 .navbar-gbc {
     border: 0;
