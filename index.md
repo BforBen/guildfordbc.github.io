@@ -42,7 +42,7 @@ Some of the projects use code that has been written and shared by others. Where 
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/activedirectory">Active Directory</a> Shared data model for the Active Directory API and client <a href="https://ci.appveyor.com/project/BforBen/activedirectory" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/k3na99cok7n81rcf" title="Build status"></a></li>
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/activedirectory-api">Active Directory API</a> The ASP.NET WebAPI address service</li>
-        <li class="list-group-item"><a href="https://github.com/GuildfordBC/activedirectory-api-client">Active Directory API Client</a> A wrapper client for the above service</li>
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/activedirectory-api-client">Active Directory API Client</a> A wrapper client for the above service <a href="https://ci.appveyor.com/project/BforBen/activedirectory-api-client" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/bixvmdk65i1pk9rd" title="Build status"></a></li>
       </ul>
     </article>
 
