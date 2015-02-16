@@ -80,7 +80,8 @@ footer {
 .service-stage-alpha,
 .label-alpha
 {
-	background-color: #d53880;
+    background-color: #d53880;
+    color: #fff;
 }
 .service-stage-beta,
 .label-beta
