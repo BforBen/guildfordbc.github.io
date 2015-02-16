@@ -9,7 +9,7 @@ destination: ./_site
 plugins:     ./_plugins
 future:      true
 lsi:         false
-highlighter:    
+highlighter: pygments
 markdown:    kramdown
 permalink:   pretty
 
