@@ -95,5 +95,14 @@ Some of the projects use code that has been written and shared by others. Where 
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-mvc">Web.Mvc</a> <a href="https://ci.appveyor.com/project/BforBen/web-mvc" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/4g3qfcbd1bcpenog" title="Build status"></a></li>
       </ul>
     </article>
+    
+    <article id="web-mvc-html">
+        <h3>Web.Mvc.Html</h3>
+        <p></p>
+        <ul class="list-unstyled list-contents list-contents-top-divider">
+            <li class="list-group-item"><a href="https://github.com/GuildfordBC/web-mvc">Web.Mvc</a> <a href="https://ci.appveyor.com/project/guildford-bc/web-mvc-html" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/auf7q6qy2jl7jii0?svg=true" title="Build status"></a></li>
+        </ul>
+    </article>
+    
   </div>
 </div>
