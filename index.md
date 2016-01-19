@@ -23,6 +23,11 @@ Some of the projects use code that has been written and shared by others. Where 
           <li class="list-group-item"><a href="#active-directory">Active Directory</a></li>
           <li class="list-group-item"><a href="#address">Address</a></li>
       </ol>
+      <h4>Frontend</h4>
+      <ol class="list-group list-contents list-contents-bottom-divider">
+          <li class="list-group-item"><a href="#front-assets">Front assets</a></li>
+          <li class="list-group-item"><a href="#front-template">Front template</a></li>
+      </ol>
       <h4>Libraries</h4>
       <ol class="list-unstyled list-contents list-contents-bottom-divider">
           <li class="list-group-item"><a href="#data-models">Data Models</a></li>
@@ -30,6 +35,7 @@ Some of the projects use code that has been written and shared by others. Where 
           <li class="list-group-item"><a href="#linq">Linq</a></li>
           <li class="list-group-item"><a href="#web-elmah">Web Elmah</a></li>
           <li class="list-group-item"><a href="#web-mvc">Web MVC</a></li>
+          <li class="list-group-item"><a href="#web-mvc-html">Web MVC HTML</a></li>
       </ol>
     </nav>
   </div>
@@ -57,10 +63,26 @@ Some of the projects use code that has been written and shared by others. Where 
     </article>
 
     <article id="data-models">
-      <h3>Data Models</h3>
+      <h3>Data models</h3>
       <p>Some standard models for data e.g. a person's name.</p>
       <ul class="list-unstyled list-contents list-contents-top-divider">
         <li class="list-group-item"><a href="https://github.com/GuildfordBC/data-models">Data Models</a></li>
+      </ul>
+    </article>
+
+    <article id="front-assets">
+      <h3>Front assets</h3>
+      <p>Static files/resources for GUILDFORD.GOV.UK front ends.</p>
+      <ul class="list-unstyled list-contents list-contents-top-divider">
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/front-assets">Front assets</a> <a href="https://ci.appveyor.com/project/guildford-bc/front-assets" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/s05gh926b1jes13i?svg=true" title="Build status"></a></li>
+      </ul>
+    </article>
+
+    <article id="front-template">
+      <h3>Front template</h3>
+      <p>.NET Razor template for MVC web applications</p>
+      <ul class="list-unstyled list-contents list-contents-top-divider">
+        <li class="list-group-item"><a href="https://github.com/GuildfordBC/front-template">Front template</a> <a href="https://ci.appveyor.com/project/guildford-bc/front-template" class="pull-right"><img src="https://ci.appveyor.com/api/projects/status/553b9tak9hevbckv?svg=true" title="Build status"></a></li>
       </ul>
     </article>
 
